@@ -1,0 +1,2 @@
+# Handwritten-Digit-Recognition-Using-Neural-Networks-Perceptron-Concepts
+This project focuses on implementing a Handwritten Digit Recognition system using fundamental concepts of Neural Networks and Perceptrons. The model is trained on the MNIST dataset, which consists of grayscale images of handwritten digits (0-9). The goal is to accurately classify each digit using machine learning techniques.
